@@ -1,0 +1,13 @@
+{
+    "Name": "Gold",
+    "Description": "It is a rare and expensive matter. Used when making things like advanced wiring.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.7,
+        "Combustibility": 0.4
+    },
+    "Type": "Advanced",
+    "Uid": "A1",
+    "Color": "F3D357"
+}

@@ -1,0 +1,13 @@
+{
+    "Name": "Copper",
+    "Description": "A matter that conducts electricity well. It is used to make electrical related materials such as wires.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.3,
+        "Combustibility": 0.5
+    },
+    "Type": "Basic",
+    "Uid": "B7",
+    "Color": "7C583E"
+}

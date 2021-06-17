@@ -1,0 +1,13 @@
+{
+    "Name": "Silver",
+    "Description": "It is a silvery matter. Used for advanced wiring, it can polish the matter.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.7,
+        "Combustibility": 0.2
+    },
+    "Type": "Advanced",
+    "Uid": "A2",
+    "Color": "ECECEC"
+}

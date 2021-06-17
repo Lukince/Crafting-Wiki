@@ -1,0 +1,13 @@
+{
+    "Name": "Wood",
+    "Description": "It is flammable and can produce a lot of fuel. It is the basis for almost everything.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.3,
+        "Combustibility": 0.8
+    },
+    "Type": "Basic",
+    "Uid": "B1",
+    "Color": "75563F"
+}

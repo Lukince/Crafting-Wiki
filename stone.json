@@ -1,0 +1,13 @@
+{
+    "Name": "Stone",
+    "Description": "It is a very hard matter. Used to increase durability and lower heat conduction.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.8,
+        "Combustibility": 0
+    },
+    "Type": "Basic",
+    "Uid": "B2",
+    "Color": "888A87"
+}

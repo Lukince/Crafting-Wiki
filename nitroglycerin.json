@@ -1,0 +1,13 @@
+{
+    "Name": "NitroGlycerin",
+    "Description": "It is a highly explosive matter. It is the base matter for all explosive matter.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0.8,
+        "Hardness": -1,
+        "Combustibility": 0.7
+    },
+    "Type": "Advanced",
+    "Uid": "A4",
+    "Color": "99E646"
+}

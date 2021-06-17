@@ -1,0 +1,13 @@
+{
+    "Name": "Iron",
+    "Description": "It is the hardest of the basic matter. However, it has high thermal conductivity and is easily deformed when subjected to heat.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.9,
+        "Combustibility": 0.4
+    },
+    "Type": "Basic",
+    "Uid": "B3",
+    "Color": "CFCDCC"
+}

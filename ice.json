@@ -1,0 +1,13 @@
+{
+    "Name": "Ice",
+    "Description": "It is a matter that is easily melted by heat. It is mainly used to dissipate heat.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.4,
+        "Combustibility": 0.9
+    },
+    "Type": "Basic",
+    "Uid": "B5",
+    "Color": "E8EEF4"
+}

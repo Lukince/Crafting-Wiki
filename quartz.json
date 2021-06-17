@@ -1,0 +1,13 @@
+{
+    "Name": "Quartz",
+    "Description": "It is a transparent colored matter. Fragile, used to make things like glass.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0,
+        "Hardness": 0.4,
+        "Combustibility": 0.1
+    },
+    "Type": "Advanced",
+    "Uid": "A3",
+    "Color": "FCF6FF"
+}

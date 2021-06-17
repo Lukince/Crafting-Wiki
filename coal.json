@@ -1,0 +1,13 @@
+{
+    "Name": "Coal",
+    "Description": "It is mainly used as fuel. It is flammable and can cause a small explosion if misused.",
+    "Properties": {
+        "Radioactivity": 0,
+        "Explosivity": 0.3,
+        "Hardness": 0.6,
+        "Combustibility": 0.8
+    },
+    "Type": "Basic",
+    "Uid": "B6",
+    "Color":  "000000"
+}

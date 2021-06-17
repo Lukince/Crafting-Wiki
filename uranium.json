@@ -1,0 +1,13 @@
+{
+    "Name": "Uranium",
+    "Description": "It is a highly radioactive matter. It has a lot of energy, but it is a dangerous matter.",
+    "Properties": {
+        "Radioactivity": 0.9,
+        "Explosivity": 0.3,
+        "Hardness": -1,
+        "Combustibility": 0.1
+    },
+    "Type": "Advanced",
+    "Uid": "A5",
+    "Color": "EBE78D"
+}
